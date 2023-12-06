@@ -11,7 +11,7 @@ This way you can completely avoid including Kotlin libraries in your jar archive
 
 # How to use
 ## Download
-You can download the `bukkit-kotlin-stdlib-x.x.jar` file from releases page
+You can download the `bukkit-kotlin-stdlib-x.x.jar` file from [releases page](https://github.com/Defective4/bukkit-kotlin-stdlib/releases)
 
 ## Installation
 Put the downloaded file in the `plugins` directory of your Bukkit or BungeeCord server and restart it.  
