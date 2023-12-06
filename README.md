@@ -29,4 +29,4 @@ You might have difficulty building this plugin as it was made mainly for persona
 You can still do it by putting a Bungee-compatible runnable file in `lib` folder as `bungee.jar` and Spigot-compatible patched file (for example `patched_1.8.8.jar`) as `bukkit.jar`.
 Make sure you have Apache Maven and at least JDK 1.8 installed.  
 You can build the plugin using `mvn clean pacakge`.  
-After build succeeds the plugin will be located in `target` directory as `bukkit-kotlin-stdlib-x.x-with-dependencies.jar`
+After build succeeds the plugin will be located in `target` directory as `bukkit-kotlin-stdlib-x.x-jar-with-dependencies.jar`
