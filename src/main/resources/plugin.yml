@@ -1,0 +1,5 @@
+name: Kotlin-stdlib
+main: io.github.defective4.kotlin.stdlib.BukkitPlugin
+version: 1.0
+author: Defective4
+api-version: 1.13

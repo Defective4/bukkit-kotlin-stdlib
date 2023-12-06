@@ -1,0 +1,4 @@
+name: Kotlin-stdlib
+main: io.github.defective4.kotlin.stdlib.BungeePlugin
+version: 1.0
+author: Defective4
